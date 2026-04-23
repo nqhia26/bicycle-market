@@ -14,6 +14,7 @@ A decentralized marketplace built on the Stellar (Soroban) network for buying an
 Contract link: https://stellar.expert/explorer/testnet/contract/CBIZROXJ7R5M7ENRNSUWSXMMUDWG3WR6F7WIU3EXNUGNVT47ZF3JQNII
 
 ![Contract Screenshot]
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/30340907-a165-4278-a055-b13d1dec420f" />
 
 # Future scopes
 - Build a user-friendly frontend interface using React.js and connect it with the Freighter wallet.
